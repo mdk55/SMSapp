@@ -1,0 +1,29 @@
+{
+  "name": "SMSapp",
+  "version": "1.0.0",
+  "description": "SMSapp\r ======",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.9.2",
+    "twilio": "^1.7.0",
+    "node-static": "^0.7.6",
+    "express": "^4.10.2",
+    "firebase": "^2.0.2",
+    "cron": "^1.0.5",
+    "socket.io": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdk55/SMSapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdk55/SMSapp/issues"
+  },
+  "homepage": "https://github.com/mdk55/SMSapp"
+}
